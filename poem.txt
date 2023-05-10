@@ -3,6 +3,7 @@ The fruits
 Orange
 Apple
 Banana
+Cherries
 Pear
 Peach
 
