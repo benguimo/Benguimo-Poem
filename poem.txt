@@ -1,0 +1,9 @@
+The fruits
+
+Orange
+Apple
+Banana
+Pear
+Peach
+
+These are some fruits that I eat.
